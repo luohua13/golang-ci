@@ -4,6 +4,10 @@
 </p>
 
 > docker image for golangci-lint
+> This is a golang base image which contains various lint tools to use on CI systems
+
+- revive
+- golangci-lint
 
 ### 🏠 [Homepage](golang-ci)
 
